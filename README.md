@@ -16,7 +16,7 @@ eprint -- formatte stderr printing utility functions
 
 ### DESCRIPTION
 
-All functions will print a message to `STDERR` prepended with date, filename, pid and the level depending on the function used. The **eprint()** function will additionaly halt the execution with `exit(2)`. If `$msg` is passed as a multiline string, it will be indented to emphasize his multiline nature.
+All functions will print a message to `STDERR` prepended with date, filename, pid and the level depending on the function used. The **eprint()** function will additionaly halt the execution with `exit(2)`. If `$msg` is passed as a multiline string, it will be indented to emphasize it's multiline nature.
 
 ### EXAMPLES
 
@@ -25,7 +25,7 @@ the following code
 ```php
 
 nprint('this is a notice');
-nprint('this is a dump of the $_ENV '. print_r($_ENV,true));
+nprint('this is a dump of the $_ENV '. print_r($_ENV, true));
 wprint('this should be checked sometime');
 eprint('and this will stop the execution');
 
