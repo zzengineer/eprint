@@ -4,7 +4,7 @@ Kernighan style eprint utility functions for php
 [![Latest Stable Version](https://poser.pugx.org/zzengineer/eprint/v/stable)](https://packagist.org/packages/zzengineer/eprint) [![Total Downloads](https://poser.pugx.org/zzengineer/eprint/downloads)](https://packagist.org/packages/zzengineer/eprint) [![Latest Unstable Version](https://poser.pugx.org/zzengineer/eprint/v/unstable)](https://packagist.org/packages/zzengineer/eprint) [![License](https://poser.pugx.org/zzengineer/eprint/license)](http://opensource.org/licenses/MIT)
 ---
 ### NAME
-eprint -- formatte stderr printing utility functions
+eprint -- formatted stderr printing utility functions
 
 ### SYNOPSIS
 
