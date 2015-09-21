@@ -8,9 +8,11 @@ eprint -- formatted to stderr printing utility functions
 
 ### SYNOPSIS
 
-`function nprint($msg)`
-`function eprint($msg)`
-`function wprint($msg)`
+```php
+function nprint($msg)
+function eprint($msg)
+function wprint($msg)
+```
 
 ### DESCRIPTION
 
