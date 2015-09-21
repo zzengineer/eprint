@@ -1,0 +1,20 @@
+{
+    "name": "zzengineer/eprint",
+    "description": "Kernighan style eprint utility functions for php",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["eprint","php"],
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "contact@zzengineer.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+
+    "autoload": {
+        "files": ["src/eprint.php"]
+    }
+}
